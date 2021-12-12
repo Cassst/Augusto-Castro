@@ -1,3 +1,3 @@
-#Portafolio Augusto Castro
+## Portafolio Augusto Castro
 
 Primera versión 
